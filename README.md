@@ -18,7 +18,7 @@ cd private-gpt
 2. Install Dependencies
 ```
 pip install -r requirements.txt
-```![Screenshot 2024-09-23 170111](https://github.com/user-attachments/assets/e667c885-e594-4ee0-ba69-5b307d0b2143)
+```
 
 3. Create and Activate a Virtual Environment
 ```
@@ -31,6 +31,9 @@ PGPT_PROFILES=local
 make run
 ```
 4. Go to http://localhost:8001/ for accessing private-gpt.
+
+## Screenshots of Interaction
+![Screenshot 2024-09-23 170111](https://github.com/user-attachments/assets/40e945e8-0ce9-4d2f-ba34-04087c27b31a)
 
 
 ### Contact
