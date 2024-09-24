@@ -18,7 +18,8 @@ cd private-gpt
 2. Install Dependencies
 ```
 pip install -r requirements.txt
-```
+```![Screenshot 2024-09-23 170111](https://github.com/user-attachments/assets/e667c885-e594-4ee0-ba69-5b307d0b2143)
+
 3. Create and Activate a Virtual Environment
 ```
 pyenv install 3.11
