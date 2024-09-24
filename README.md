@@ -36,6 +36,7 @@ make run
 ![Screenshot 2024-09-23 164344](https://github.com/user-attachments/assets/bcda1fa9-ef01-4927-aef9-ab9baaf11e0d)
 ![Screenshot 2024-09-23 165054](https://github.com/user-attachments/assets/ae649e31-8a15-4b15-aed1-26c53c02bb26)
 ![Screenshot 2024-09-23 170111](https://github.com/user-attachments/assets/40e945e8-0ce9-4d2f-ba34-04087c27b31a)
+![Screenshot 2024-09-24 163808](https://github.com/user-attachments/assets/1e143f9d-2e2c-454a-88bb-2a093decd394)
 
 ### Contact
 For any questions or feedback, please contact jilowa.1@iitj.ac.in.
