@@ -39,9 +39,7 @@ for anchor in anchor_tags:
     while True:
         try:
             # Find the "Load More" button by class name and click it
-            load_more_button = wait.until(
-                EC.element_to_be_clickable((By.CLASS_NAME, 'js-go-to-page'))
-            )
+            load_more_button = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, 'js-go-to-page')))
             load_more_button.click()
 
             # Wait for new content to load (adjust time as needed)
